@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{9D71DA17-B0CE-4253-9940-E01C06968F4F}</ProjectGuid>
+    <ProjectGuid>{972DA6B1-42A3-4744-9822-6D101A0F0C6C}</ProjectGuid>
     <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="hello-world">
-      <HintPath>..\..\hello-world\hello-world\obj\Debug\hello-world.exe</HintPath>
-    </Reference>
     <Reference Include="Microsoft.CSharp">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
@@ -50,9 +47,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="hello-world-UnitTest.cs" />
     <Compile Include="MyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="unitTestForHello-world.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\hello-world\hello-world.csproj">
+      <Project>{c897070b-42f4-4c2e-8b4b-6de52080ed99}</Project>
+      <Name>hello-world</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

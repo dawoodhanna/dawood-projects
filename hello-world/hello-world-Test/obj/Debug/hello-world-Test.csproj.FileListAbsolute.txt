@@ -1,0 +1,8 @@
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\bin\Debug\hello-world-Test.dll
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\bin\Debug\hello-world-Test.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\bin\Debug\hello-world.exe
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\bin\Debug\NUnit.Framework.dll
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\bin\Debug\hello-world.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\obj\Debug\hello-world-Test.csprojResolveAssemblyReference.cache
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\obj\Debug\hello-world-Test.dll
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world-Test\obj\Debug\hello-world-Test.pdb
