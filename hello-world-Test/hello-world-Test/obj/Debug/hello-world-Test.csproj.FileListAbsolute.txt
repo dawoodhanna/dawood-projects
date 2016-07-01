@@ -13,3 +13,4 @@ C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world-Test\hello-world-Test\b
 C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world-Test\hello-world-Test\obj\Debug\hello-world-Test.csprojResolveAssemblyReference.cache
 C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world-Test\hello-world-Test\obj\Debug\hello-world-Test.dll
 C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world-Test\hello-world-Test\obj\Debug\hello-world-Test.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world-Test\hello-world-Test\bin\Debug\hello-world.exe
