@@ -16,7 +16,7 @@ namespace hello_world
 		public static int number;
 		public static void SetUp()
 		{
-		number=99;	
+		number=102;	
 		}
 		public static void Main(string[] args)
 		{
