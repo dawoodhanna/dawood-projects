@@ -10,12 +10,20 @@ using System;
 
 namespace hello_world
 {
-	class Program
+	public class Program
+		
 	{
+		public static int number;
+		public static void SetUp()
+		{
+		number=99;	
+		}
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
 			
+			Console.WriteLine("Hello World!");
+			SetUp();
+			Console.WriteLine("number ;  "+number);
 			// TODO: Implement Functionality Here
 			
 			Console.Write("Press any key to continue . . . ");

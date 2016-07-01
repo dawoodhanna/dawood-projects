@@ -4,3 +4,10 @@ C:\Users\dawood\Desktop\Tuna\hello-world\hello-world\bin\Debug\hello-world.pdb
 C:\Users\dawood\Desktop\Tuna\hello-world\hello-world\obj\Debug\hello-world.csprojResolveAssemblyReference.cache
 C:\Users\dawood\Desktop\Tuna\hello-world\hello-world\obj\Debug\hello-world.exe
 C:\Users\dawood\Desktop\Tuna\hello-world\hello-world\obj\Debug\hello-world.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\bin\Debug\hello-world.exe.config
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\bin\Debug\hello-world.exe
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\bin\Debug\hello-world.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\obj\Debug\hello-world.csprojResolveAssemblyReference.cache
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\obj\Debug\hello-world.exe
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\obj\Debug\hello-world.pdb
+C:\Users\dawood\Desktop\Tuna\dawood-projects\hello-world\hello-world\bin\Debug\NUnit.Framework.dll
